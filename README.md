@@ -34,6 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-minJ&layout=compact&theme=default"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Han-minJ&show_icons=true&theme=default" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Han-minJ&show_icons=true&theme=default"/>
 </a>
 </div>
