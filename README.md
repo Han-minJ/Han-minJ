@@ -5,7 +5,6 @@
 
 
 </div>
-<hr>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-minJ&layout=compact&theme=default"/>
 </a>
